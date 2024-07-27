@@ -125,7 +125,7 @@ This task demonstrates how to use an ESP32 microcontroller to retrieve data from
 * __record.php:__ Contains the HTML for the robot control interface with buttons and handles recording the direction to the database.
 * __last.php:__ Retrieves the last recorded direction from the database.
 * __ESP32 Code:__ The code for the ESP32 to make HTTP requests.
-Files can be found in the project directory __"robotcontrol"__.
+Files can be found in the project directory __"RobotControl"__. Note that the files uploaded use a local host and their server name, username, password, and database name must be changed accordingly before use as I have mentioned above.
 
 ## Usage
 1. Open the HTML page in your browser to control the robot.
